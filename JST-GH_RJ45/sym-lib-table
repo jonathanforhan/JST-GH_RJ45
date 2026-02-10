@@ -1,7 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "SM08B-GHS-TB")(type "KiCad")(uri "C:/Users/jon/OneDrive/School/EG/EG-498/JST-GH_RJ45/symbols/SM08B-GHS-TB.kicad_sym")(options "")(descr ""))
-  (lib (name "SS-60000-009")(type "KiCad")(uri "C:/Users/jon/OneDrive/School/EG/EG-498/JST-GH_RJ45/symbols/SS-60000-009.kicad_sym")(options "")(descr ""))
-  (lib (name "PJ-002A")(type "KiCad")(uri "C:/Users/jon/OneDrive/School/EG/EG-498/JST-GH_RJ45/symbols/PJ-002A.kicad_sym")(options "")(descr ""))
-  (lib (name "LTST-C170KGKT")(type "KiCad")(uri "C:/Users/jon/OneDrive/School/EG/EG-498/JST-GH_RJ45/symbols/LTST_C170KGKT.kicad_sym")(options "")(descr ""))
+  (lib (name "SM08B-GHS-TB")(type "KiCad")(uri "${KIPRJMOD} /../symbols/SM08B-GHS-TB.kicad_sym")(options "")(descr ""))
+  (lib (name "SS-60000-009")(type "KiCad")(uri "${KIPRJMOD} /../symbols/SS-60000-009.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-002A")(type "KiCad")(uri "${KIPRJMOD} /../symbols/PJ-002A.kicad_sym")(options "")(descr ""))
+  (lib (name "LTST-C170KGKT")(type "KiCad")(uri "${KIPRJMOD} /../symbols/LTST_C170KGKT.kicad_sym")(options "")(descr ""))
 )
